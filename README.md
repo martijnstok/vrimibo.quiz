@@ -19,4 +19,3 @@ Pointers Yeagger wants to achieve:
 # Project Management
 * [Trello](https://trello.com/b/bCI44nDN/team-4)
 * [Github](#)
-Collapse
