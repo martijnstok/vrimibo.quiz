@@ -19,3 +19,6 @@ Pointers Yeagger wants to achieve:
 # Project Management
 * [Trello](https://trello.com/b/bCI44nDN/team-4)
 * [Github](#)
+
+# Design
+* [Figma](https://www.figma.com/file/iNOGTxaSoT56ttxaWEBlXc/Untitled?node-id=0%3A1) 
